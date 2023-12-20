@@ -1,0 +1,6 @@
+@SwapiApi_HostAddress = http://localhost:5095
+
+GET {{SwapiApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
