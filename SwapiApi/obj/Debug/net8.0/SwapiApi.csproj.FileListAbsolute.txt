@@ -136,3 +136,4 @@ D:\API\SwapiApi\SwapiApi\obj\Debug\net8.0\refint\SwapiApi.dll
 D:\API\SwapiApi\SwapiApi\obj\Debug\net8.0\SwapiApi.pdb
 D:\API\SwapiApi\SwapiApi\obj\Debug\net8.0\SwapiApi.genruntimeconfig.cache
 D:\API\SwapiApi\SwapiApi\obj\Debug\net8.0\ref\SwapiApi.dll
+D:\API\SwapiApi\SwapiApi\obj\Debug\net8.0\SwapiApi.sourcelink.json
